@@ -19,16 +19,16 @@
 
 ##Sound
 
-*FMOD
-*WWISE
-*Audiacity
+* FMOD
+* WWISE
+* Audiacity
 
 ##Modeling
 
-*Blender
-*SketchUp
+* Blender
+* SketchUp
 
 ##Painting
 
-*Gimp
-*Paint.Net
+* Gimp
+* Paint.Net
