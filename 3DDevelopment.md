@@ -28,7 +28,7 @@
 
 * Blender
 * SketchUp
-* [Makehuman](www.makehuman.org)
+* [Makehuman](http://www.makehuman.org)
 
 ##Painting
 
