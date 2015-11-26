@@ -16,3 +16,19 @@
 |Euclideon|
 |Game Maker Studio|
 |YoYo|
+
+##Sound
+
+*FMOD
+*WWISE
+*Audiacity
+
+##Modeling
+
+*Blender
+*SketchUp
+
+##Painting
+
+*Gimp
+*Paint.Net
