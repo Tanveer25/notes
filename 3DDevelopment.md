@@ -22,11 +22,13 @@
 * FMOD
 * WWISE
 * Audiacity
+* Maya, Cinema 4D, 3DMax, Cheetah 3D, Modo, LightWave
 
 ##Modeling
 
 * Blender
 * SketchUp
+* [Makehuman](www.makehuman.org)
 
 ##Painting
 
